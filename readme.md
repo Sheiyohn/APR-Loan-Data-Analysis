@@ -24,8 +24,6 @@ their occupation, the reason for taking out loans and what state of USA they ori
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
-
 For the presentation, i investigate Prosper Loan borrower's income range and how they relate 
 to the APR, the loan amount and monthly loan payment. Also, the changes in APR and Loan amounts 
 across the past 8 years was observed.
